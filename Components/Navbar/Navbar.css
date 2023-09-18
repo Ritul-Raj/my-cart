@@ -1,0 +1,20 @@
+nav{
+    background-color: rgb(19, 97, 97);
+    display: flex;
+    padding: 10px 20px;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 2px 2px rgb(221, 228, 228);
+
+}
+
+.banner{
+    color: white;
+}
+.cart-layout{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    color: azure;
+    font-size: 1.5rem;
+}
